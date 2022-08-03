@@ -272,16 +272,10 @@
         padding: 8rem;
     }
     .policy__item:nth-child(1) {
-       background-image: url('../img/bg1.jpeg');
-       background-repeat: no-repeat;
-       background-position: center;
-       background-size: cover;
+       background-color: var(--second-brand-color);
     }
     .policy__item:nth-child(4) {
-        background-image: url('../img/bg2.jpeg');
-        background-repeat: no-repeat;
-        background-position: center;
-        background-size: cover;
+        background-color: var(--third-brand-color);
      }
     .policy__item:nth-child(2) {
         margin-bottom: 0;
