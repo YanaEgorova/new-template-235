@@ -147,6 +147,7 @@
     .hero .title,
     .hero .text {
         color: var(--sub-text-color);
+        max-width: 44rem;
     }
     .hero .btn {
         background-color: var(--main-text-color);
